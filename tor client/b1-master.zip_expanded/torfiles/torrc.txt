@@ -1,0 +1,11 @@
+ControlPort auto
+CookieAuthentication 1
+DisableNetwork 1
+PidFile pid
+RunAsDaemon 1
+SafeSocks 1
+SOCKSPort auto
+CookieAuthFile C:\Users\User\eclipse-workspace\tor client\b1-master.zip_expanded\torfiles\.tor\control_auth_cookie
+DataDirectory C:\Users\User\eclipse-workspace\tor client\b1-master.zip_expanded\torfiles
+GeoIPFile geoip.txt
+GeoIPv6File geoip6.txt
